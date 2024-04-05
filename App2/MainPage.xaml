@@ -1,0 +1,17 @@
+﻿<!-- Username Entry -->
+<Entry x:Name="usernameEntry" Placeholder="Enter your username" />
+
+<!-- Password Entry -->
+<Entry x:Name="passwordEntry" Placeholder="Enter your password" IsPassword="True" />
+
+<!-- Email Entry -->
+<Entry x:Name="emailEntry" Placeholder="Enter your email" />
+
+<!-- First Name Entry -->
+<Entry x:Name="firstNameEntry" Placeholder="Enter your first name" />
+
+<!-- Last Name Entry -->
+<Entry x:Name="lastNameEntry" Placeholder="Enter your last name" />
+
+<!-- Phone Number Entry -->
+<Entry x:Name="phoneNumberEntry" Placeholder="Enter your phone number" />
